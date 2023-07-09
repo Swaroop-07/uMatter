@@ -1,0 +1,14 @@
+.css-1jmjcem
+{
+    padding: 0px !important;
+}
+.NavigationParent
+{
+    /* background: linear-gradient(180deg, #F2F2F2 0%, #E6E2E2 100%); */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background: white;
+    font-family: 'Josefin Sans';
+}
+span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary {
+    font-family: 'Josefin Sans';
+}

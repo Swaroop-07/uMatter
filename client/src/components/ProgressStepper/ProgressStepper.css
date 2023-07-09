@@ -1,0 +1,35 @@
+.Stepper svg.Mui-active
+{
+    color: #2da1cb;
+    width:35px !important;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.Stepper svg.Mui-completed
+{
+    color :#3d84ff;
+    width:30px;
+    /* font-family: 'Josefin Sans', sans-serif; */
+}
+.Stepper span.Mui-active
+{
+    font-size: 18px;
+    color:#2da1cb;
+    /* font-family: 'Josefin Sans', sans-serif; */
+}
+.stepperButton
+{
+    color: #5c4033;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.Stepper button 
+{
+            font-family: 'Josefin Sans', sans-serif;
+}
+.MuiButtonBase-root {
+    font-family: 'Josefin Sans', sans-serif;
+}
+.Stepper .MuiStepLabel-label
+{
+    font-family: 'Josefin Sans', sans-serif;
+
+}
