@@ -25,6 +25,7 @@ export default function LogIn() {
       body: JSON.stringify(form),
     });
     const logInStatus = await res.json();
+    console.log("LogIN", logInStatus)
     if (res.ok) {
       Cookies.set("token", logInStatus.token);
       navigate("/");

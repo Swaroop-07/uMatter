@@ -29,10 +29,10 @@ const App = () => {
       fetchUser();
   },[])
   return (
-    <QueryClientProvider client={queryClient}>
-      {/* <AppBar /> */}
+    // <QueryClientProvider client={queryClient}>
+      //  <AppBar /> 
       <Outlet />
-    </QueryClientProvider>
+    // </QueryClientProvider>
   );
 }
 
